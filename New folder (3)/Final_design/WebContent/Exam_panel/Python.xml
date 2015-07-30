@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<xmldata>
+    <student>
+        <QuestionNo>1</QuestionNo>
+        <Question>Which of these in not a core datatype?</Question>
+        <choiceA>Lists</choiceA>
+        <choiceB>Dictionary</choiceB>
+          <choiceC>Tuples</choiceC>
+            <choiceD>Class</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+  
+     
+     <student>
+        <QuestionNo>2</QuestionNo>
+        <Question>Given a function that does not return any value, What value is thrown by itby default when executed in shell. </Question>
+        <choiceA>int</choiceA>
+        <choiceB>bool</choiceB>
+          <choiceC>void</choiceC>
+            <choiceD>None</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>3</QuestionNo>
+        <Question>Which of the following is not a valid attribute of a file object (fp)? </Question>
+        <choiceA>fp.name</choiceA>
+        <choiceB>fp.closed</choiceB>
+          <choiceC>fp.mode</choiceC>
+            <choiceD>fp.size</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>4</QuestionNo>
+        <Question>What happens if no arguments are passed to the seek function?</Question>
+        <choiceA>file position is set to the start of file</choiceA>
+        <choiceB>file position is set to the end of file</choiceB>
+        <choiceC>file position remains unchanged</choiceC>
+        <choiceD>error</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>5</QuestionNo>
+        <Question>Which of these class is used to read characters in a file?</Question>
+        <choiceA>FileReaders</choiceA>
+        <choiceB>FileWriter</choiceB>
+          <choiceC>FileInputStream</choiceC>
+            <choiceD>InputStreamReader</choiceD>
+        <correct>A</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>6</QuestionNo>
+        <Question>Python is a __________ language.</Question>
+        <choiceA>Scripting</choiceA>
+        <choiceB>Object Oriented</choiceB>
+          <choiceC>Object Oriented Scripting</choiceC>
+            <choiceD>Procedural</choiceD>
+        <correct>C</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>7</QuestionNo>
+        <Question>What are Frozen Binary Executables?</Question>
+        <choiceA>Compiled python code i.e. bytecodes</choiceA>
+        <choiceB>Immutable python files</choiceB>
+          <choiceC>Compiled python code + python interpreter</choiceC>
+            <choiceD>None of the Above</choiceD>
+        <correct>C</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>8</QuestionNo>
+        <Question>Which of these class is not related to input and output stream in terms of functioning?</Question>
+        <choiceA>InputStream</choiceA>
+        <choiceB>File</choiceB>
+          <choiceC>Writer</choiceC>
+            <choiceD>Reader</choiceD>
+        <correct>B</correct>
+    </student>
+	
+   
+    <student>
+        <QuestionNo>9</QuestionNo>
+        <Question>To run an applet..........command is used.?</Question>
+        <choiceA>run</choiceA>
+        <choiceB>appletviewer</choiceB>
+          <choiceC>java</choiceC>
+            <choiceD>applet</choiceD>
+        <correct>A</correct>
+    </student>
+
+    <student>
+        <QuestionNo>10</QuestionNo>
+        <Question>Which of these class is used to read characters in a file?</Question>
+        <choiceA>FileReaders</choiceA>
+        <choiceB>FileWriter</choiceB>
+          <choiceC>FileInputStream</choiceC>
+            <choiceD>InputStreamReader</choiceD>
+        <correct>A</correct>
+    </student>
+</xmldata>

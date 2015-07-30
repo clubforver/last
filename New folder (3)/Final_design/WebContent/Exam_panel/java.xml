@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<xmldata>
+    <student>
+        <QuestionNo>1</QuestionNo>
+        <Question>In java , if you do not give a value to a variable before using it ,______</Question>
+        <choiceA>It will contain a garbage value</choiceA>
+        <choiceB>It will initialized with zero</choiceB>
+          <choiceC>None of above</choiceC>
+            <choiceD>Compiler will give an error</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+  
+     
+     <student>
+        <QuestionNo>2</QuestionNo>
+        <Question>Which among the following is the compulsory section of java program ? </Question>
+        <choiceA>package Statement</choiceA>
+        <choiceB>import Statement</choiceB>
+          <choiceC>Documentation section</choiceC>
+            <choiceD>Class declaration section</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>3</QuestionNo>
+        <Question>_________ is a software that interprets Java bytecode. </Question>
+        <choiceA>Java virtual machine</choiceA>
+        <choiceB>Java compiler</choiceB>
+          <choiceC>Java debugger</choiceC>
+            <choiceD>Java API</choiceD>
+        <correct>A</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>4</QuestionNo>
+        <Question>which of the following is the smallest integer data type ? </Question>
+        <choiceA>byte</choiceA>
+        <choiceB>long</choiceB>
+        <choiceC>int</choiceC>
+        <choiceD>short</choiceD>
+        <correct>A</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>5</QuestionNo>
+        <Question>Which of these class is used to read characters in a file?</Question>
+        <choiceA>FileReaders</choiceA>
+        <choiceB>FileWriter</choiceB>
+          <choiceC>FileInputStream</choiceC>
+            <choiceD>InputStreamReader</choiceD>
+        <correct>A</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>6</QuestionNo>
+        <Question>Which of these classes can return more than one character to be returned to input stream?</Question>
+        <choiceA>BufferedReader</choiceA>
+        <choiceB>Bufferedwriter</choiceB>
+          <choiceC>PushbachReader</choiceC>
+            <choiceD>CharArrayReader</choiceD>
+        <correct>C</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>7</QuestionNo>
+        <Question>Which of these packages contain classes and interfaces used for input  output operations of a program?</Question>
+        <choiceA>java.util</choiceA>
+        <choiceB>java.io</choiceB>
+          <choiceC>java.lang</choiceC>
+            <choiceD>All of the mentioned</choiceD>
+        <correct>B</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>8</QuestionNo>
+        <Question>Which of these class is not related to input and output stream in terms of functioning?</Question>
+        <choiceA>InputStream</choiceA>
+        <choiceB>File</choiceB>
+          <choiceC>Writer</choiceC>
+            <choiceD>Reader</choiceD>
+        <correct>B</correct>
+    </student>
+	
+   
+    <student>
+        <QuestionNo>9</QuestionNo>
+        <Question>To run an applet..........command is used.?</Question>
+        <choiceA>run</choiceA>
+        <choiceB>appletviewer</choiceB>
+          <choiceC>java</choiceC>
+            <choiceD>applet</choiceD>
+        <correct>A</correct>
+    </student>
+
+    <student>
+        <QuestionNo>10</QuestionNo>
+        <Question>Which of these class is used to read characters in a file?</Question>
+        <choiceA>FileReaders</choiceA>
+        <choiceB>FileWriter</choiceB>
+          <choiceC>FileInputStream</choiceC>
+            <choiceD>InputStreamReader</choiceD>
+        <correct>A</correct>
+    </student>
+</xmldata>

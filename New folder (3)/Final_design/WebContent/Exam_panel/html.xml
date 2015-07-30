@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<xmldata>
+    <student>
+        <QuestionNo>1</QuestionNo>
+        <Question>A webpage displays a picture. What tag was used to display that picture?</Question>
+        <choiceA>picture</choiceA>
+        <choiceB>image</choiceB>
+          <choiceC>img</choiceC>
+            <choiceD>src</choiceD>
+        <correct>C</correct>
+ 
+    </student>
+  
+     
+     <student>
+        <QuestionNo>2</QuestionNo>
+        <Question>tag makes the enclosed text bold. What is other tag to make text bold? </Question>
+        <choiceA>Strong</choiceA>
+        <choiceB>dar</choiceB>
+          <choiceC>italic</choiceC>
+            <choiceD>emp</choiceD>
+        <correct>A</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>3</QuestionNo>
+        <Question>What does vlink attribute mean? </Question>
+        <choiceA>visited link</choiceA>
+        <choiceB>virtual Link</choiceB>
+          <choiceC>active link</choiceC>
+            <choiceD>very good link</choiceD>
+        <correct>A</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>4</QuestionNo>
+        <Question>Which attribute is used to name an element uniquely?</Question>
+        <choiceA>class</choiceA>
+        <choiceB>id</choiceB>
+        <choiceC>dot</choiceC>
+        <choiceD>all of above</choiceD>
+        <correct>D</correct>
+ 
+    </student>
+    
+    <student>
+        <QuestionNo>5</QuestionNo>
+        <Question> The special formatting codes in HTML document used to present content are	</Question>
+        <choiceA>tags</choiceA>
+        <choiceB>attributes</choiceB>
+          <choiceC>values</choiceC>
+            <choiceD>None of above</choiceD>
+        <correct>A</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>6</QuestionNo>
+        <Question>What should be the first tag in any HTML document?</Question>
+        <choiceA>head</choiceA>
+        <choiceB>html</choiceB>
+          <choiceC>home</choiceC>
+            <choiceD>Doctype</choiceD>
+        <correct>B</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>7</QuestionNo>
+        <Question> What is the full form of HTML?</Question>
+        <choiceA> Hyper text markup language</choiceA>
+        <choiceB>Hyphenation text markup language</choiceB>
+          <choiceC>Hyphenation test marking language</choiceC>
+            <choiceD>Hyper text marking language</choiceD>
+        <correct>A</correct>
+    </student>
+	
+    <student>
+        <QuestionNo>8</QuestionNo>
+        <Question>What is the full form of TCP/IP?</Question>
+        <choiceA>transmission control protocol / internet protocol</choiceA>
+        <choiceB>telephone call protocol / international protocol</choiceB>
+          <choiceC>telephone call protocol / international protocol</choiceC>
+            <choiceD>none of the above</choiceD>
+        <correct>A</correct>
+    </student>
+	
+   
+    <student>
+        <QuestionNo>9</QuestionNo>
+        <Question>With regards to e-mail addresses:?</Question>
+        <choiceA> hey must always contain an @ symbol</choiceA>
+        <choiceB>hey can never contain spaces</choiceB>
+          <choiceC> they are case-insensitive</choiceC>
+            <choiceD>All of the above</choiceD>
+        <correct>A</correct>
+    </student>
+
+    <student>
+        <QuestionNo>10</QuestionNo>
+        <Question>Which of the following is used to explore the Internet?</Question>
+        <choiceA> Browser</choiceA>
+        <choiceB>Clipboard</choiceB>
+          <choiceC>Spreadsheet</choiceC>
+            <choiceD>Draw</choiceD>
+        <correct>A</correct>
+    </student>
+</xmldata>
